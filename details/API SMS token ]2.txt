@@ -1,0 +1,10 @@
+06723818lI4E+Lm+6ArKxtiBww1hBfQ/8BwZY2emC/LO2SBydac=fP$4mcErcYTniguWoodJ
+
+{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5teXZhbHVlZmlyc3QuY29tL3BzbXMiLCJzdWIiOiJiZXRwbGkiLCJleHAiOjIwMjU2OTgzNzN9.s6PGScOY5h7Z6swXQJ4oBSuJ-q3TnHNKb4lsWX-5mlc",
+    "expiryDate": "2034-03-09 19:29:33"
+}
+
+103.229.250.200
+
+[OTP_CODE] is the OTP to login to your Love Desi account. DO NOT disclose it to anyone.

@@ -1,0 +1,22 @@
+Database name - love-desi-app
+Password name- main-2024-04-09-xrzyqr
+
+
+username - 2gi8l1coldhn7i3cf2p5
+
+Password - pscale_pw_wLuVP8zUt4Tt0t03duX5feEwr0qZSWrxQ71xlzWxYtG
+
+DATABASE_URL='mysql://2gi8l1coldhn7i3cf2p5:pscale_pw_wLuVP8zUt4Tt0t03duX5feEwr0qZSWrxQ71xlzWxYtG@aws.connect.psdb.cloud/love-desi-app?sslaccept=strict'
+
+
+aws account 
+
+account name:Betpl
+id: betplmail@gmail.com
+pasword: eG6Q"ur,,L_5/3p
+
+
+https://app.planetscale.com/betplmail/welcome
+
+email id: betplmail@gmail.com
+password: mLUb*Nqt9PA2-h6
