@@ -20,3 +20,12 @@ https://app.planetscale.com/betplmail/welcome
 
 email id: betplmail@gmail.com
 password: mLUb*Nqt9PA2-h6
+
+
+
+password name = main-2024-11-28-iq0egu
+
+username = 7c0le7ds13bkiat3v1g3
+password = pscale_pw_yoQoICi9i1crcwH0uPrCkuiSw0rQodbA8CeCVYinQxX
+
+'mysql://7c0le7ds13bkiat3v1g3:pscale_pw_yoQoICi9i1crcwH0uPrCkuiSw0rQodbA8CeCVYinQxX@aws.connect.psdb.cloud/love-desi-app?sslaccept=strict'
